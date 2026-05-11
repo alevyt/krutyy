@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(34, 80, 87);
+
+}
+
+.cont{
+    display: flex;
+    flex-direction: row;
+}
+.kit{
+  font-size: 20px;
+}
+.foxtrot{
+    margin:5%;
+}
+.Winion{
+    font-family:Monotype Corsiva;
+    font-size: 40px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

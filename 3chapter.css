@@ -57,5 +57,10 @@ a{
     justify-content: center;
     align-items: center;
 }
+.apelsinka{
+    color:rgb(208, 187, 116);
+    text-decoration:underline ;
+    text-decoration-color: rgb(208, 187, 116);
+}
 
 

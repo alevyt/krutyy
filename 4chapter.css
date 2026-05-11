@@ -58,7 +58,16 @@ a{
     border-radius: 5px;
    
 }
-
-
-
+.mandarinka{
+    color: rgb(78, 162, 236);
+    text-decoration: underline;
+    text-decoration-color:rgb(78, 162, 236) ;
+}
+.sobaka{
+    color: rgb(37, 156, 180);
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+}
 

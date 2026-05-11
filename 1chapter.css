@@ -1,5 +1,5 @@
 h1{
-color: rgb(98, 122, 86);
+color: rgb(59, 158, 13);
 font-family: Arial;
 font-weight: bold;
 }
@@ -19,7 +19,7 @@ border: 3px solid rgba(31, 41, 31, 0.442);
 border-radius: 10px;
 overflow: auto;
 height: 200px;
-width: 1900px;
+width: 1000px;
 }
 header{
 color: rgb(22, 98, 29);
@@ -48,6 +48,7 @@ a{
 }
 ::-webkit-scrollbar{
 background-color: rgba(34, 63, 31, 0.753);
+
 }
 ::-webkit-scrollbar-thumb{
     background-color: rgba(33, 126, 22, 0.753);
@@ -58,7 +59,11 @@ border-radius: 5px;
     justify-content: center;
     align-items: center;
 }
-
+.morkovka{
+    color: rgb(131, 181, 123);
+    text-decoration: underline;
+    text-decoration-color: rgb(131, 181, 123);
+}
 
 
 

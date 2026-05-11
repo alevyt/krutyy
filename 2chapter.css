@@ -60,5 +60,10 @@ a{
     justify-content: center;
     align-items: center;
 }
+.pomidorka{
+    color: rgb(132, 188, 236);
+    text-decoration: underline;
+    text-decoration-color: rgb(132, 188, 236);
+}
 
 

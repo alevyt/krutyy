@@ -1,0 +1,52 @@
+body{
+    background-image: url(https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2022/09/uncharted-legacy-of-thieves-collection-confirms-pc-release-date.jpg?w=1600&h=900&fit=crop);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 150px; ;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+header{
+    color: rgb(46, 33, 6);
+    background-color: rgb(152, 139, 75);
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    height: 100px;
+    width: auto;
+    font-family:Arial ;
+}
+nav{
+    color: rgb(46, 33, 6);
+    background-color: rgb(152, 139, 75);
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial;
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: rgb(52, 37, 20);
+}
+footer{
+        position: absolute;
+    background-color: rgb(152, 139, 75);
+    color: rgb(63, 55, 19);
+    height: 60px;
+    width: 100%;
+    bottom: 0;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
