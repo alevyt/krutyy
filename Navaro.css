@@ -1,6 +1,6 @@
 
 body{
-    background-color:rgb(169, 60, 33);
+    background-color:rgb(69, 55, 7);
 
 }
 
@@ -29,8 +29,8 @@ padding: 0;
 height: 150px; 
 }
 header{
-color: rgb(111, 29, 29);
-background-color: rgb(230, 52, 52);
+color: rgb(75, 62, 34);
+background-color: rgb(104, 89, 5);
 text-align: center;
 font-size: 70px;
 font-weight: bolder;
@@ -43,8 +43,8 @@ font-family:Arial ;
 
 nav{
 font-weight: bold;
-color: rgb(111, 28, 28);
-background-color:rgb(230, 52, 52) ;
+color: rgb(58, 25, 25);
+background-color:rgb(104, 89, 5) ;
 font-size: 30px;
 text-align: center;
 font-family: Arial;
@@ -53,10 +53,10 @@ justify-content: space-around;
 }
 a{
 text-decoration: none;
-color: rgb(111, 28, 28);
+color: rgb(75, 62, 34);
 }
 .zivchuk{
-color:rgb(218, 22, 22) ;
+color:rgb(173, 135, 73) ;
 text-decoration: underline;
 }
 
@@ -66,9 +66,8 @@ text-decoration: underline;
 .TZK{
     transition: 0.6s;
 }
-
-
-
-
+img{
+    height: 400px;
+}
 
 
