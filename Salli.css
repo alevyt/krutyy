@@ -1,5 +1,6 @@
+
 body{
-    background-color:rgb(19, 169, 207);
+    background-color:rgb(136, 45, 23);
 
 }
 
@@ -14,17 +15,22 @@ body{
 .foxtrot{
     margin:5%;
 }
+
 .Winion{
     font-family:Monotype Corsiva;
     font-size: 40px;
+    
 }
-.zivchuk{
-color:rgb(17, 53, 62) ;
-text-decoration: underline;
+body{
+
+background-size:cover;
+margin: 0;
+padding: 0;
+height: 150px; 
 }
 header{
-color: rgb(17, 53, 62);
-background-color: rgb(51, 147, 171);
+color: rgb(111, 28, 28);
+background-color: rgb(190, 64, 64);
 text-align: center;
 font-size: 70px;
 font-weight: bolder;
@@ -37,8 +43,8 @@ font-family:Arial ;
 
 nav{
 font-weight: bold;
-color: rgb(17, 53, 62);
-background-color:rgb(51, 147, 171) ;
+color: rgb(103, 13, 13);
+background-color:rgb(190, 64, 64) ;
 font-size: 30px;
 text-align: center;
 font-family: Arial;
@@ -47,7 +53,12 @@ justify-content: space-around;
 }
 a{
 text-decoration: none;
-color: rgb(17, 53, 62);
+color: rgb(111, 28, 28);
 }
+
+
+
+
+
 
 
